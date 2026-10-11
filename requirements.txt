@@ -1,0 +1,7 @@
+matplotlib==3.11.2
+mlflow==3.16.1
+mlflow_skinny==3.16.1
+mlflow_tracing==3.16.1
+numpy==2.5.3
+pandas==3.0.6
+scikit_learn==1.9.1
